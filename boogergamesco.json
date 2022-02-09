@@ -1,0 +1,64 @@
+{
+  "companyName" : "Booger Games Co.",
+  "division" : "Character Model Development",
+  "divisionHeadName" : "Nerys I. Lucas",
+  "location" : "Atlanta, GA",
+  "members" : [
+  {
+    "name": "Tariel Padovano",
+    "gender": "female",
+    "age": 45,
+    "favoriteFruit": "papaya",
+    "contacts": [
+      {
+        "name": "Fionnuala Das",
+        "company": "BLIZZARD"
+      },
+      {
+        "name": "Zvjezdana Corna",
+        "company": "VALVE"
+      }
+    ]
+  },
+  {
+    "name": "Simonetta Hawk",
+    "gender": "female",
+    "age": 30,
+    "favoriteFruit": "orange",
+    "contacts": [
+      {
+        "name": "Aischylos Salamon",
+        "company": "ACTIVISION"
+      },
+      {
+        "name": "Vittorino Mertens",
+        "company": "GE"
+      },
+      {
+        "name": "Philippine Clifton",
+        "company": "ALPINE"
+      }
+    ]
+  },
+  {
+    "name": "Nechtan Arntzen",
+    "gender": "male",
+    "age": 22,
+    "favoriteFruit": "banana",
+    "contacts": [
+      {
+        "name": "Billy Time",
+        "company": "EPIC GAMES"
+      },
+      {
+        "name": "Jaiquan Stevens",
+        "company": "SQUARE ENIX"
+      },
+      {
+        "name": "Ratko Muratović",
+        "company": "UBISOFT"
+      }
+    ]
+  }
+]
+}
